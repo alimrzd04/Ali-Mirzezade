@@ -15,5 +15,5 @@
 
 ## 📫 Mənimlə əlaqə:
 - **Email:** ali.mirzezade@example.com
-- **LinkedIn:** [Profilinizin Linki](#)
+- **LinkedIn:** [www.linkedin.com/in/əli-mirzəzadə-22804b325](#)
 
