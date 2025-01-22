@@ -14,6 +14,6 @@
 - SQL ilə məlumat bazası idarəetməsi
 
 ## 📫 Mənimlə əlaqə:
-- **Email:** ali.mrzd0405@gmail.com
+- **Email:** alimrzd0405@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/əli-mirzəzadə-22804b325](#)
 
